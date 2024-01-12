@@ -1,0 +1,1 @@
+docker run --rm  -p 3000:3000 -v c:/opt/uploads:/var/wwww/public/uploads   stjohnd007/fileserver:0.5.0

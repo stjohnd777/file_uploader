@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../services/easycsv/.idea/easycsv.iml" filepath="$PROJECT_DIR$/../services/easycsv/.idea/easycsv.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../services/easyrest/.idea/easyrest.iml" filepath="$PROJECT_DIR$/../services/easyrest/.idea/easyrest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/files.iml" filepath="$PROJECT_DIR$/.idea/files.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../mongo-dao/.idea/mongo-dao.iml" filepath="$PROJECT_DIR$/../mongo-dao/.idea/mongo-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../services/service_crypto/.idea/service_crypto.iml" filepath="$PROJECT_DIR$/../services/service_crypto/.idea/service_crypto.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../services/service_uuid/.idea/service_uuid.iml" filepath="$PROJECT_DIR$/../services/service_uuid/.idea/service_uuid.iml" />
+    </modules>
+  </component>
+</project>

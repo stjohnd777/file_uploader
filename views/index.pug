@@ -1,0 +1,12 @@
+extends layout
+
+block content
+    h1= title
+    p Welcome to #{title}
+    body
+        form(method="POST", action="/fileupload" , enctype="multipart/form-data")
+            p file
+            input(type="file", name="filetoupload", method="post")
+            p select
+            input(type="submit")
+
